@@ -125,6 +125,7 @@ const chartData1: GoldData[] = data?.filter((v) =>  v.name !== "Update")
   return (
     <>
       <h1 className="mb-4">GOLD PRICE</h1>
+      <h1 className="mb-4">GOLD PRICE</h1>
       <p></p>
       {data && (
       <>
