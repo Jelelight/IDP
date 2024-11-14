@@ -41,6 +41,20 @@ import {
   DrawerTrigger,
 } from "@/components/ui/drawer"
 
+import { Input } from "@/components/ui/input"
+// import { Label } from "@/components/ui/label"
+
+// import {
+//   Sheet,
+//   SheetClose,
+//   SheetContent,
+//   SheetDescription,
+//   SheetFooter,
+//   SheetHeader,
+//   SheetTitle,
+//   SheetTrigger,
+// } from "@/components/ui/sheet"
+
 interface GoldData {
   name: string;
   bid: number; // bid สามารถเป็นตัวเลขหรือข้อความ
